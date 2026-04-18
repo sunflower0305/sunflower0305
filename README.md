@@ -1,6 +1,6 @@
 # Hi, I'm Leyang ☀️
 
-I build AI agents and developer utilities, mostly in Python and TypeScript.
+I build AI tools and developer utilities, mostly in Python and TypeScript.
 
 ## What I'm building
 
