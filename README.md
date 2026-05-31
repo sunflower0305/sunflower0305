@@ -16,6 +16,9 @@ I build AI tools and developer utilities, mostly in Python and TypeScript.
 - [Utilizing Dual-Channel Graph and Hypergraph Convolution Network to Discover Microbes Underlying Disease Traits](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00224)
 - [DRL-HNet: A Deep Residual Learning Framework for Microbe-Drug Associations Prediction Using Heterogeneous Network Feature](https://ieeexplore.ieee.org/abstract/document/11048950)
 
+## Blog
+- https://blog.zhangleyang.com
+
 ## Get in touch
 
 I am actively looking for collaboration, feedback, and connections in the AI space.
