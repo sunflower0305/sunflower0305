@@ -4,7 +4,8 @@ I build AI tools and developer utilities, mostly in Python and TypeScript.
 
 ## What I'm building
 
-- 🤖 [claude-proxy](https://github.com/sunflower0305/claude-proxy) — Use Claude Agent SDK or Claude Code with Chinese LLMs (DeepSeek, Qwen, GLM, MiniMax, Kimi)
+- 🤖 [claude-proxy](https://github.com/sunflower0305/claude-proxy) — Use Claude Agent SDK or Claude Code with Chinese LLMs (DeepSeek, Qwen, GLM, MiniMax, Kimi, MiMo)
+- 💼 [ai-job-seeker](https://github.com/sunflower0305/ai-job-seeker) — Job market analytics, salary prediction, and personalized recommendations for smarter job hunting.
 - 🗂️ [fileorg](https://github.com/sunflower0305/fileorg) — AI-powered file organizer for lazy people
 - 🧒 [ai-kid-tutor](https://github.com/sunflower0305/ai-kid-tutor) — AI tutor that asks questions instead of giving answers
 - 🔍 [tinycode](https://github.com/sunflower0305/tinycode) — Lightweight code intelligence: RAG + Agent from scratch
